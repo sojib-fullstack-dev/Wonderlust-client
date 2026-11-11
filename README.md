@@ -55,6 +55,7 @@ Start the backend server:
 node index.js
 ```
 
+<<<<<<< HEAD
 ### 2. Setup the Client (`Wonderlust-client`)
 ```bash
 git clone https://github.com
@@ -70,6 +71,9 @@ Run the Next.js development server:
 npm run dev
 ```
 Open [http://localhost:3000](http://localhost:3000) in your browser to see the live app.
+=======
+Open [https://wonderlust-client-mocha.vercel.app](https://wonderlust-client-mocha.vercel.app) with your browser to see the result.
+>>>>>>> 7706134 (error fix)
 
 ---
 
